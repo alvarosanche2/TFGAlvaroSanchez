@@ -29,7 +29,7 @@ public class Main {
 
         driver.close();
 
-        for (int anoInt = 2010; anoInt < 2012; anoInt++) {
+        for (int anoInt = 2010; anoInt <= 2022; anoInt++) {
             String ano = String.valueOf(anoInt);
             for (int provincia = 1; provincia <= ld1.size()-1; provincia++) {
                 driver = new ChromeDriver();
@@ -68,7 +68,7 @@ public class Main {
                     desplegable1.selectByIndex(provincia);
 
                     try {
-                        TimeUnit.SECONDS.sleep(2);
+                        TimeUnit.SECONDS.sleep(4);
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
