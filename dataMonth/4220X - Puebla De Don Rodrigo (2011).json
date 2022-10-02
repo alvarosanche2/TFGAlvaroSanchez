@@ -1,0 +1,50 @@
+[ {
+  "fecha" : "2011-1",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2011-2",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2011-3",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2011-4",
+  "indicativo" : "4220X",
+  "w_med" : "8.0"
+}, {
+  "fecha" : "2011-5",
+  "indicativo" : "4220X",
+  "w_med" : "5.0"
+}, {
+  "fecha" : "2011-6",
+  "indicativo" : "4220X",
+  "q_max" : "960.5(01)",
+  "q_mar" : "1008.5",
+  "q_med" : "954.6",
+  "e" : "161.0",
+  "w_med" : "7.0",
+  "q_min" : "943.9(05)"
+}, {
+  "fecha" : "2011-7",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2011-8",
+  "indicativo" : "4220X",
+  "w_med" : "7.0"
+}, {
+  "fecha" : "2011-9",
+  "indicativo" : "4220X",
+  "e" : "257.0"
+}, {
+  "fecha" : "2011-10",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2011-11",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2011-12",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2011-13",
+  "indicativo" : "4220X"
+} ]

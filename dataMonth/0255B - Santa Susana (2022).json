@@ -1,0 +1,71 @@
+[ {
+  "fecha" : "2022-1",
+  "indicativo" : "0255B",
+  "n_cub" : "1.0",
+  "n_des" : "21.0",
+  "n_nub" : "9.0",
+  "w_med" : "0.0"
+}, {
+  "fecha" : "2022-2",
+  "indicativo" : "0255B",
+  "n_cub" : "7.0",
+  "n_des" : "10.0",
+  "n_nub" : "11.0",
+  "w_med" : "0.0"
+}, {
+  "fecha" : "2022-3",
+  "indicativo" : "0255B",
+  "n_cub" : "21.0",
+  "n_des" : "0.0",
+  "n_nub" : "10.0",
+  "w_med" : "0.0"
+}, {
+  "fecha" : "2022-4",
+  "indicativo" : "0255B",
+  "n_cub" : "12.0",
+  "n_des" : "4.0",
+  "n_nub" : "11.0",
+  "w_med" : "0.0"
+}, {
+  "fecha" : "2022-5",
+  "indicativo" : "0255B",
+  "n_cub" : "8.0",
+  "n_des" : "7.0",
+  "n_nub" : "16.0",
+  "w_med" : "0.0"
+}, {
+  "fecha" : "2022-6",
+  "indicativo" : "0255B",
+  "n_cub" : "3.0",
+  "n_des" : "7.0",
+  "n_nub" : "20.0",
+  "w_med" : "0.0"
+}, {
+  "fecha" : "2022-7",
+  "indicativo" : "0255B",
+  "n_cub" : "4.0",
+  "n_des" : "20.0",
+  "n_nub" : "7.0"
+}, {
+  "fecha" : "2022-8",
+  "indicativo" : "0255B",
+  "n_cub" : "3.0",
+  "n_des" : "9.0",
+  "n_nub" : "19.0",
+  "w_med" : "0.0"
+}, {
+  "fecha" : "2022-9",
+  "indicativo" : "0255B"
+}, {
+  "fecha" : "2022-10",
+  "indicativo" : "0255B"
+}, {
+  "fecha" : "2022-11",
+  "indicativo" : "0255B"
+}, {
+  "fecha" : "2022-12",
+  "indicativo" : "0255B"
+}, {
+  "fecha" : "2022-13",
+  "indicativo" : "0255B"
+} ]

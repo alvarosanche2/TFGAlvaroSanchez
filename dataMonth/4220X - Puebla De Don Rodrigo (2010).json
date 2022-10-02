@@ -1,0 +1,66 @@
+[ {
+  "fecha" : "2010-1",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2010-2",
+  "indicativo" : "4220X",
+  "hr" : "84.0",
+  "q_max" : "962.2(05)",
+  "q_mar" : "1004.7",
+  "q_med" : "946.5",
+  "tm_min" : "3.4",
+  "ta_max" : "16.4(24)",
+  "ts_min" : "9.8",
+  "nt_30" : "0.0",
+  "ta_min" : "-4.4(14)",
+  "e" : "90.0",
+  "w_med" : "8.0",
+  "nt_00" : "6.0",
+  "ti_max" : "4.9",
+  "tm_mes" : "7.5",
+  "tm_max" : "11.7",
+  "q_min" : "926.7(16)"
+}, {
+  "fecha" : "2010-3",
+  "indicativo" : "4220X",
+  "w_med" : "5.0"
+}, {
+  "fecha" : "2010-4",
+  "indicativo" : "4220X",
+  "q_mar" : "1009.8",
+  "q_med" : "952.4",
+  "w_rec" : "193.0",
+  "e" : "111.0",
+  "w_med" : "9.0"
+}, {
+  "fecha" : "2010-5",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2010-6",
+  "indicativo" : "4220X",
+  "w_med" : "6.0"
+}, {
+  "fecha" : "2010-7",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2010-8",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2010-9",
+  "indicativo" : "4220X",
+  "w_med" : "4.0"
+}, {
+  "fecha" : "2010-10",
+  "indicativo" : "4220X"
+}, {
+  "fecha" : "2010-11",
+  "indicativo" : "4220X",
+  "w_med" : "3.0"
+}, {
+  "fecha" : "2010-12",
+  "indicativo" : "4220X",
+  "w_med" : "5.0"
+}, {
+  "fecha" : "2010-13",
+  "indicativo" : "4220X"
+} ]

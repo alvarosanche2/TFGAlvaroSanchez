@@ -1,0 +1,22 @@
+[ {
+  "fecha" : "2010-01-01",
+  "indicativo" : "6172O",
+  "nombre" : "MÁLAGA, PUERTO",
+  "provincia" : "MALAGA",
+  "altitud" : "25",
+  "prec" : "0,0"
+}, {
+  "fecha" : "2010-01-26",
+  "indicativo" : "6172O",
+  "nombre" : "MÁLAGA, PUERTO",
+  "provincia" : "MALAGA",
+  "altitud" : "25",
+  "prec" : "1,2"
+}, {
+  "fecha" : "2010-01-27",
+  "indicativo" : "6172O",
+  "nombre" : "MÁLAGA, PUERTO",
+  "provincia" : "MALAGA",
+  "altitud" : "25",
+  "prec" : "2,1"
+} ]
