@@ -111,7 +111,7 @@ public class Main {
 
                         //Imprimimos la informacion en un fichero externo
                         PrintWriter printWriter = null;
-                        String ubicacionGuardar = "D:\\TFGAlvaroSanchez\\dataDay\\";
+                        String ubicacionGuardar = "D:\\TFGAlvaroSanchez\\data\\day\\";
                         String nombreFichero = ubicacionGuardar.concat(estacionMeterologica).concat(" (").concat(ano).concat(")").concat(".json");
 
                         try {
