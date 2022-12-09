@@ -16,8 +16,8 @@ public class Main {
         String baseUrl = "https://opendata.aemet.es/centrodedescargas/productosAEMET?";
         System.setProperty("webdriver.chrome.driver", "D:\\TFGAlvaroSanchez\\DescargaDatosPorDias\\chromedriver_win32\\chromedriver.exe");
         String apiKey = "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhLnNhbmNoZXpwZS4yMDE5QGFsdW1ub3MudXJqYy5lcyIsImp0aSI6ImRhYTliMDk2LWI5OTgtNGY5Yi05NDdhLWQxMDY5Yjc5NzJkZSIsImlzcyI6IkFFTUVUIiwiaWF0IjoxNjU2NTEwNDUwLCJ1c2VySWQiOiJkYWE5YjA5Ni1iOTk4LTRmOWItOTQ3YS1kMTA2OWI3OTcyZGUiLCJyb2xlIjoiIn0.jC6TwKGKfFn-MM5OUDYKZV48qxnDIBIg_NYfGs4i3TU";
-        int anoInicio = 1990;
-        int anoFin = 1994;
+        int anoInicio = 1968;
+        int anoFin = 2022;
         String ubicacionGuardar = "D:\\TFGAlvaroSanchez\\data\\day\\";
 
 
