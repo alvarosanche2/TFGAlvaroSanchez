@@ -1,8 +1,15 @@
-ThisBuild / version := "0.1.0-SNAPSHOT"
+name := "aws"
 
-ThisBuild / scalaVersion := "2.12.8"
+version := "0.1.0-SNAPSHOT"
 
-lazy val root = (project in file("."))
-  .settings(
-    name := "aws"
-  )
+scalaVersion := "2.12.8"
+
+val sparkVersion = "2.4.3"
+
+libraryDependencies ++= Seq(
+    "org.apache.spark" %% "spark-sql" % sparkVersion,
+    "org.apache.spark" %% "spark-sql" % sparkVersion,
+    "com.typesafe" % "config" % "1.3.3"
+)
+
+

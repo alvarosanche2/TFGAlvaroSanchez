@@ -1,0 +1,4 @@
+[debug] [aws-test] Classpath dependencies List()
+[debug] [aws-test] Dependencies from configurations List(aws)
+[debug] Bloop wrote the configuration of project 'aws-test' to 'D:\TFGAlvaroSanchez\aws\.bloop\aws-test.json'
+[success] Generated .bloop\aws-test.json
