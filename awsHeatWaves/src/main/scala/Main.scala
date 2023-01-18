@@ -11,7 +11,7 @@ object Main {
 
     val config = ConfigFactory.load("config.conf")
 
-    implicit val spark = SparkSession.builder().master("local[*]").getOrCreate()
+    implicit val spark = SparkSession.builder().getOrCreate()
     import spark.implicits._
     Logger.getRootLogger.setLevel(Level.ERROR)
 
