@@ -42,7 +42,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DescargaDatosPorMeses" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
@@ -90,6 +90,7 @@
       <workItem from="1674213340822" duration="2000" />
       <workItem from="1675170696109" duration="67000" />
       <workItem from="1675170811365" duration="596000" />
+      <workItem from="1676113882971" duration="29000" />
     </task>
     <servers />
   </component>
