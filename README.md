@@ -13,13 +13,16 @@ Este repositorio contiene el trabajo de fin de grado, donde se aborda el aprendi
 
 ## Enlaces 
 
-A continuación se encuentran enlaces a los recursos utilizados en el proyecto que pueden resultar de interés:
+A continuación se encuentran enlaces a los recursos que pueden resultar de interés:
 
 * [Memoria](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/Memoria.pdf)
-* [Programa de descarga de datos diarios](https://github.com/alvarosanche2/TFGAlvaroSanchez/tree/main/DescargaDatosPorDias)
-* [Programa de descarga de datos mensuales](https://github.com/alvarosanche2/TFGAlvaroSanchez/tree/main/DescargaDatosPorMeses)
-* [Programa de procesamiento de datos](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/ConsultasMemoria.ipynb)
-* [Visualización de la consulta de olas de calor](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/RepresentacionOlasCalor.ipynb)
+* Consultas y visualización de resultados:
+    *[Precipitación por mes y año en estación meteorológica elegida (Vitigudino - Salamanca)](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/Precipitaci%C3%B3n%20por%20mes%20y%20a%C3%B1o%20en%20estaci%C3%B3n%20meteorol%C3%B3gica%20elegida%20(Vitigudino%20-%20Salamanca).ipynb)
+    *[Variación de la temperatura máxima mensual](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/Variaci%C3%B3n%20de%20la%20temperatura%20m%C3%A1xima%20mensual%20(2010%20-%202022).ipynb)
+    *[Relación entre la temperatura media anual y la precipitación anual](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/Relaci%C3%B3n%20entre%20la%20temperatura%20media%20anual%20y%20la%20precipitaci%C3%B3n%20anual.ipynb)
+    *[Año de la temperatura máxima promedio cada mes](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/A%C3%B1o%20de%20la%20temperatura%20m%C3%A1xima%20promedio%20cada%20mes%20(2010%20-%202022).ipynb)
+    *[Olas de calor](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/Olas%20de%20calor.ipynb)
+        *[Visualización de los resultados en mapa](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/Olas%20de%20calor%20-%20Representaci%C3%B3n%20en%20mapa%20.ipynb)
 * [Programa a desplegar en AWS](https://github.com/alvarosanche2/TFGAlvaroSanchez/tree/main/awsHeatWaves)
 
 ## Descarga de los datos
