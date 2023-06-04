@@ -16,6 +16,7 @@ Este repositorio contiene el trabajo de fin de grado, donde se aborda el aprendi
 A continuación se encuentran enlaces a los recursos que pueden resultar de interés:
 
 * [Memoria](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/Memoria.pdf)
+* [Presentación](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/Presentaci%C3%B3n.pdf)
 * Consultas y visualización de resultados:
     * [Precipitación por mes y año en estación meteorológica elegida (Vitigudino - Salamanca)](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/Precipitaci%C3%B3n%20por%20mes%20y%20a%C3%B1o%20en%20estaci%C3%B3n%20meteorol%C3%B3gica%20elegida%20(Vitigudino%20-%20Salamanca).ipynb)
     * [Variación de la temperatura máxima mensual](https://github.com/alvarosanche2/TFGAlvaroSanchez/blob/main/notebooks/Variaci%C3%B3n%20de%20la%20temperatura%20m%C3%A1xima%20mensual%20(2010%20-%202022).ipynb)
